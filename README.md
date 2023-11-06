@@ -1,10 +1,10 @@
 Hi 👋 My name is Vegu Shree Rama Kamal Kumar
 ============================================
 
-Lead Software Consultant
+Lead Full Stack Data Scientist - Software Developer - Management Consultant - Business Analyst
 ------------------------
 
-highly passionate, self-driven & detail oriented Robotic Process Automation (RPA) professional with around 6 years of experience in multiple industries. Decent exposure to pre-sales, automation feasibility study, research, development, and delivery for a wide range of RPA solution developments including management consulting engagements.
+highly passionate, self-driven & detail oriented Data Science and Robotic Process Automation (RPA) professional with around 7.5+ years of experience in multiple industries. Decent exposure to pre-sales, automation feasibility study, research, development, and delivery for a wide range of DS and RPA solution developments including management consulting engagements.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Android Apps](http://play.google.com/store/apps/developer?id=kamapp&hl=en_IN&gl=US)
