@@ -9,7 +9,7 @@ highly passionate, self-driven & detail oriented Data Science and Robotic Proces
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Android Apps](http://play.google.com/store/apps/developer?id=kamapp&hl=en_IN&gl=US)
 * ✉️  You can contact me at [kamal.vegu@gmail.com](mailto:kamal.vegu@gmail.com)
-* 🚀  I'm currently working on [Halifax Parking](http://halifaxparking.herokuapp.com)
+* 🚀  I'm currently working on [Visualizing Shark Patterns](https://dalspace.library.dal.ca/handle/10222/82719)
 * 🧠  I'm learning new frameworks.
 * 🤝  I'm open to collaborating on intresting high budget projects.
 * ⚡  Software, Software, Software, I don't like it, but Software likes me, I can't avoid.
